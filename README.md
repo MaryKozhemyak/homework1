@@ -10,7 +10,7 @@
 5. Я настоящий любитель вкусной **еды** разных народов мира. Веду в инстаграме **блог** о местах, где можно попробовать что-то необычное. 
 6. Интересуюсь искусством. Мои любимые художники - *Сальвадор Дали*, *Альберт Бирштадт* и *Клод Моне*.
 #### Моя любимая картина
-![](https://commons.wikimedia.org/wiki/File:Albert_Bierstadt,_Among_the_Sierra_Nevada_Mountains.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/5/5c/Albert_Bierstadt_-_Among_the_Sierra_Nevada%2C_California_-_Google_Art_Project.jpg)
 Albert Bierstadt - Among the Sierra
 ### Любимые сериалы
 **Сериалы** - самое популярное развлечение среди молодежи. Лично я люблю сериалы, над которыми нужно думать, которые превносят новые мысли, что-то, о чем я ранее не задумывалась. Поэтому мои любимые сериалы - это:
@@ -27,3 +27,4 @@ Albert Bierstadt - Among the Sierra
 Литература|+
 Физика    |-
 Английский|+
+
