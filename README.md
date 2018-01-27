@@ -20,3 +20,4 @@ Albert Bierstadt - Among the Sierra Nevada, California
 + Мир дикого запада
 #### Ссылка на мои социальные сети
 [Вконтакте](https://vk.com/id162420913)
+--|
